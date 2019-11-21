@@ -1,0 +1,11 @@
+repo: tut101
+title: Build a modern web application with Laravel and Vue
+url: https://blog.pusher.com/web-application-laravel-vue-part-1/
+
+repo: tut102
+title: Vue.js Todo App
+url: https://www.youtube.com/watch?v=A5S23KS_-bU&list=PLEhEHUEU3x5q-xB1On4CsLPts0-rZ9oos&index=2&t=0s
+
+repo: OOP
+title: PHP Object Oriented Programming (OOP)
+url: https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla&index=2&t=0s
